@@ -1,0 +1,15 @@
+# Physical Risks
+
+Physical risks to the data center can significantly impact its operations. Key risks include:
+
+## 1. Fire
+- **Risk**: Fire can damage equipment and compromise data integrity.
+- **Mitigation**: Implement fire suppression systems, regular maintenance of electrical systems, and establish clear evacuation procedures.
+
+## 2. Flooding
+- **Risk**: Mumbai is prone to heavy rains and flooding, especially during the monsoon season.
+- **Mitigation**: Locate the data center on higher ground, install adequate drainage systems, and employ waterproofing measures to protect against water ingress.
+
+## 3. Unauthorized Access
+- **Risk**: Physical breaches can lead to data theft or damage.
+- **Mitigation**: Utilize biometric access controls, security personnel, and CCTV surveillance to monitor and restrict access to the facility.
