@@ -33,6 +33,7 @@ The data center must support:
 
 ## Location
 The data center is located within the organization's headquarters in Mumbai, ensuring quick access for maintenance and security.
+![Location Diagram](../location.png)
 
 ## Risk Assessment
 Key risks include physical threats (fire, flooding), technical vulnerabilities (hardware failure, cyber-attacks), and operational challenges (power outages, human errors). Mitigation strategies are outlined in the project documentation.
