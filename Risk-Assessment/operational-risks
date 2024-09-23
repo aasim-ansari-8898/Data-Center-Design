@@ -1,0 +1,15 @@
+# Operational Risks
+
+Operational risks can disrupt data center operations and affect service delivery. Key risks include:
+
+## 1. Power Outages
+- **Risk**: Frequent power outages in Mumbai can disrupt operations.
+- **Mitigation**: Install backup power generators and UPS systems to ensure an uninterrupted power supply.
+
+## 2. Network Failures
+- **Risk**: Connectivity issues or network failures could impact the data center's functionality.
+- **Mitigation**: Establish redundant network connections and regularly test failover systems to maintain network reliability.
+
+## 3. Human Errors
+- **Risk**: Mistakes made by personnel can lead to data loss or system failures.
+- **Mitigation**: Provide regular training for staff, establish clear protocols, and implement access controls to minimize the impact of human error.
